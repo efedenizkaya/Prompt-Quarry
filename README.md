@@ -40,22 +40,6 @@ No special tooling required — these are plain-text prompts designed to work in
 | [Creative & Design Templates](./Creative%20%26%20Design%20Templates) | Brainstorming, creative writing, design briefs, naming | Coming soon |
 | [Productivity & Operations Templates](./Productivity%20%26%20Operations%20Templates) | Workflow design, meeting notes, process docs, task planning | Coming soon |
 
-## Software Development Templates
-
-| Prompt | What it does |
-|---|---|
-| [Code Review](./Software%20Development%20Templates/Code%20Review.md) | Reviews code for bugs, security issues, and performance problems, ranked by severity |
-| [API Design](./Software%20Development%20Templates/API%20Design.md) | Designs REST API endpoints with a full OpenAPI 3.0 spec, error handling, and rate limiting |
-| [Debug Helper](./Software%20Development%20Templates/Debug%20Helper.md) | Diagnoses root causes from stack traces and proposes a verified fix |
-| [Unit Test Generator](./Software%20Development%20Templates/Unit%20Test%20Generator.md) | Writes comprehensive unit tests covering happy paths, edge cases, and error handling |
-| [SQL Query from Natural Language](./Software%20Development%20Templates/SQL%20Query%20from%20Natural%20Language.md) | Converts plain-English requests into optimized, dialect-correct SQL |
-| [Regex Pattern Explainer](./Software%20Development%20Templates/Regex%20Pattern%20Explainer.md) | Breaks down regex patterns token-by-token and flags edge cases and backtracking risk |
-| [Performance Optimisation Advisor](./Software%20Development%20Templates/Performance%20Optimisation%20Advisor.md) | Finds real bottlenecks and ranks fixes by actual impact, not guesswork |
-| [Architecture Decision Record](./Software%20Development%20Templates/Architecture%20Decision%20Record.md) | Writes a full ADR with honest trade-offs and real alternatives considered |
-| [Git Commit Message Generator](./Software%20Development%20Templates/Git%20Commit%20Message%20Generator.md) | Generates Conventional Commits messages from a diff |
-| [Error Message Improver](./Software%20Development%20Templates/Error%20Message%20Improver.md) | Rewrites technical errors into clear, honest, user-facing messages |
-| [Pull Request Description Generator](./Software%20Development%20Templates/Pull%20Request%20Description%20Generator.md) | Turns a diff into a PR description that explains the "why," not just the "what" |
-
 *(More categories and prompts are added regularly — see the table above for what's live.)*
 
 ## Keywords
