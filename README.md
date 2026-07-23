@@ -31,7 +31,7 @@ No special tooling required — these are plain-text prompts designed to work in
 
 | Category | Description | Prompts |
 |---|---|---|
-| [Software Development Templates](./Software%20Development%20Templates) | Code review, debugging, testing, architecture, and dev workflow prompts | 11 |
+| [Software Development Templates](./Software%20Development%20Templates) | Code review, debugging, testing, architecture, and dev workflow prompts | 21 |
 | [Content Writing Templates](./Content%20Writing%20Templates) | Blog posts, articles, editing, tone adjustment, long-form writing | Coming soon |
 | [Data Analysis Templates](./Data%20Analysis%20Templates) | Data cleaning, exploration, reporting, and insight generation | Coming soon |
 | [Business & Strategy Templates](./Business%20%26%20Strategy%20Templates) | Planning, decision frameworks, competitive analysis, pitches | Coming soon |
